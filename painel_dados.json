@@ -1,10 +1,10 @@
 {
- "gerado_em": "2026-09-29T09:46",
+ "gerado_em": "2026-09-29T10:00",
  "resumo": {
   "abertos": 33,
   "urgentes": 7,
   "novidades_semana": 234,
-  "indeterminados": 218
+  "indeterminados": 219
  },
  "prefeituras_governo": [
   {
@@ -2802,6 +2802,18 @@
    "primeira_vez": "2026-09-29",
    "dias_desde_descoberta": 0,
    "novo_semana": true
+  },
+  {
+   "fonte": "Diário Oficial dos Municípios (RO)",
+   "titulo": "PORTARIA Nº 005/2026 - RESULTADO FINAL",
+   "link": "https://www.diariomunicipal.com.br/arom/materia/A14E113B",
+   "categoria": "cultura",
+   "status_tipo": "indeterminado",
+   "status_texto": "Prazo não confirmado",
+   "dias_restantes": null,
+   "primeira_vez": "2026-09-29",
+   "dias_desde_descoberta": 0,
+   "novo_semana": true
   }
  ],
  "corporativas": [
@@ -2845,8 +2857,8 @@
    "status_tipo": "aberto",
    "status_texto": "Fecha em 20 dia(s)",
    "dias_restantes": 20,
-   "situacao": "ALTERADA em 29/09/2026",
-   "mudou_hoje": true,
+   "situacao": "Falha ao acessar (bloqueio ou fora do ar)",
+   "mudou_hoje": false,
    "emails": "editaldeincentivadoszurich@idis.org.br"
   },
   {
